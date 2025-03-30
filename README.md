@@ -31,7 +31,7 @@ Administrators can:
   ```json
   {
     "email": "visitor@test.com",
-    "password": "javascript23"
+    "password": "javascript23%"
   }
 
 ## 📖 Documentation  
