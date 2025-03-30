@@ -1,6 +1,6 @@
 # examensarbete-js23-mambyly-logistics
 
-![Logo](https://d8wvfqs2nquyz.cloudfront.net/assets/mambyLyLogoDef-CzOBjSvV.png)  
+![Logo](mambyLyLogoDef.png)  
 
 ## 📌 Repositories  
 
