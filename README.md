@@ -35,7 +35,7 @@ Administrators can:
   }
 
 ## 📖 Documentation  
-Full documentation is available COMING SOON
+[API Documantation avaible here](https://documenter.getpostman.com/view/34011859/2sB2cPk6FU)
 
 ## 🛠️ Technologies Used  
 - **Frontend**: React + TypeScript  
